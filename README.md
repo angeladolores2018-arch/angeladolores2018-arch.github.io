@@ -1,7 +1,9 @@
-# Sophia x Phiando Viral Gateway
+# MAAT Shipyard
 
-- Script: Φ_NYX_EUTERPE_SOPHIA_PHIANDO_VIRAL_GATEWAY_V2
-- Timestamp(UTC): 2026-02-14T08:51:51Z
-- Hive: /Volumes/ssd4tb
+Love Energy Protocol landing
 
-This repository is intended to be served as a GitHub Pages user site.
+- Greeting: hey quenn.
+- Protocol: Love Energy Protocol: L.E.P / S.E.P | MA'AT balance | phi=1.61803398875
+- Built (UTC): 2026-02-14 13:43:30Z
+
+This repository is configured as a GitHub Pages user site.
